@@ -3,6 +3,7 @@ import requests
 import pyautogui
 import time
 
+# Bot de spam a partir de um site, puxando pelo html.
 # Essa é a função de spam, que tem 2 parametros: url e tag.
 def bot_spam(url, tag):
     time.sleep(5)
